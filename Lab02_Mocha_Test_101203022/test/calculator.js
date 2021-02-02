@@ -33,12 +33,12 @@ describe("Calculator", () => {
 
       done();
     });
-    it("div(5,2) expected result 5", (done) => {
+    it("div(10,2) expected result 5", (done) => {
       assert.equal(calc.div(10, 2), 5);
 
       done();
     });
-    it("div(5,2) expected result 2", (done) => {
+    it("div(10,2) expected result 2", (done) => {
       assert.equal(calc.div(10, 2), 2);
 
       done();
