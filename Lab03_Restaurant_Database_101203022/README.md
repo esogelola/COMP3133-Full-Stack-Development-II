@@ -1,6 +1,6 @@
 # Lab 03 - Exerise
 
-#### Restuarant Data:
+## Restaurant Data:
 
 [{
 "address": {
